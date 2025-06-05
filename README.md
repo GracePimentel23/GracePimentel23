@@ -8,30 +8,6 @@
 Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Institute of Technology.<br><br>Some roles that might help you understand me better:<br><br>Full-Stack Engineer || Frontend Developer || Backend Developer || Software Developer || Software Engineer || Web Developer || Web Designer || UX/UI Developer<br><br>I'm passionate about building intuitive, accessible, and impactful digital experiences — from clean, functional backends to polished, user-centered frontends. Whether it's designing interfaces or writing efficient code, I enjoy bringing ideas to life through technology.<br><be>
 
 
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ1bHZ0b25kcmh2aDRtZzk0czh4MnM2a3N3cGticHZwaTY0N2t1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GracePimentel23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GracePimentel23&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GracePimentel23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
 ## 🌐 Socials:
 
 <div align="center">
@@ -57,6 +33,9 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 
 # 📊 GitHub Stats:
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GracePimentel23&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ1bHZ0b25kcmh2aDRtZzk0czh4MnM2a3N3cGticHZwaTY0N2t1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
@@ -81,8 +60,6 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 
 ###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GracePimentel23&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
