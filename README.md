@@ -1,22 +1,48 @@
-## Hi there 👋
-
 <!--
 **GracePimentel23/GracePimentel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Institute of Technology.<br><br>Some roles that might help you understand me better:<br><br>Full-Stack Engineer<br><br>Frontend Developer<br><br>Backend Developer<br><br>Software Developer<br><br>Software Engineer<br><br>Web Developer<br><br>Web Designer<br><br>UX/UI Developer<br><br>I'm passionate about building intuitive, accessible, and impactful digital experiences — from clean, functional backends to polished, user-centered frontends. Whether it's designing interfaces or writing efficient code, I enjoy bringing ideas to life through technology.<br><br>
 
+<h2 align="left">Welcome to Grace's GitHub 💙</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/grace-pimentel26/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="pimentelgrace6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+# 💫 About Me:
+Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Institute of Technology.<br><br>Some roles that might help you understand me better:<br><br>Full-Stack Engineer<br><br>Frontend Developer<br><br>Backend Developer<br><br>Software Developer<br><br>Software Engineer<br><br>Web Developer<br><br>Web Designer<br><br>UX/UI Developer<br><br>I'm passionate about building intuitive, accessible, and impactful digital experiences — from clean, functional backends to polished, user-centered frontends. Whether it's designing interfaces or writing efficient code, I enjoy bringing ideas to life through technology.<br><be>
+
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ1bHZ0b25kcmh2aDRtZzk0czh4MnM2a3N3cGticHZwaTY0N2t1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GracePimentel23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GracePimentel23&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GracePimentel23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/grace-pimentel26/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pimentelgrace6@gmail.com) 
