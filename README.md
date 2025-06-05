@@ -4,18 +4,6 @@
 
 <h2 align="left">Welcome to Grace's GitHub 💙</h2>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/grace-pimentel26/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="pimentelgrace6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 # 💫 About Me:
 Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Institute of Technology.<br><br>Some roles that might help you understand me better:<br><br>Full-Stack Engineer || Frontend Developer || Backend Developer || Software Developer || Software Engineer || Web Developer || Web Designer || UX/UI Developer<br><br>I'm passionate about building intuitive, accessible, and impactful digital experiences — from clean, functional backends to polished, user-centered frontends. Whether it's designing interfaces or writing efficient code, I enjoy bringing ideas to life through technology.<br><be>
 
@@ -45,6 +33,16 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 ###
 
 ## 🌐 Socials:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/grace-pimentel26/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="pimentelgrace6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/grace-pimentel26/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pimentelgrace6@gmail.com) 
 
 # 💻 Tech Stack:
