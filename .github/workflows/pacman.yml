@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # More standard 12-hour syntax
+    - cron: '0 */12 * * *'  # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -23,6 +23,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+
+      - name: List files in workspace
+        run: ls -R
 
       - name: Move output to dist
         run: |
