@@ -34,9 +34,9 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GracePimentel23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="301" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GracePimentel23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="300" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GracePimentel23&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5" height="300" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GracePimentel23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GracePimentel23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GracePimentel23&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ### 🔝 Top Contributed Repo
