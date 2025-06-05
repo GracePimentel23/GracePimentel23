@@ -14,8 +14,8 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
   <a href="https://www.linkedin.com/in/grace-pimentel26/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="pimentelgrace6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:pimentelgrace6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=pimentelgrace6@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
@@ -31,33 +31,27 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 
 # 📊 GitHub Stats:
 
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GracePimentel23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="301" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GracePimentel23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="300" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GracePimentel23&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5" height="300" alt="streak graph"  />
+</div>
+###
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GracePimentel23&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ1bHZ0b25kcmh2aDRtZzk0czh4MnM2a3N3cGticHZwaTY0N2t1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GracePimentel23/GracePimentel23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GracePimentel23/GracePimentel23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GracePimentel23/GracePimentel23/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GracePimentel23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GracePimentel23&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GracePimentel23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
 
 
 
