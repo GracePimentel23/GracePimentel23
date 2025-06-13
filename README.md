@@ -7,7 +7,7 @@
 # 💫 About Me:
 Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Institute of Technology.<br><br>Some roles that might help you understand me better:<br><br>Full-Stack Engineer || Frontend Developer || Backend Developer || Software Developer || Software Engineer || Web Developer || Web Designer || UX/UI Developer<br><br>I'm passionate about building intuitive, accessible, and impactful digital experiences — from clean, functional backends to polished, user-centered frontends. Whether it's designing interfaces or writing efficient code, I enjoy bringing ideas to life through technology.<br><be>
 
-#🤔 What is Grace up to?:
+##🤔 What is Grace up to?:
 <ul>
   <li> Looking for a Spring/ Summer Internship/Co-op </li>
   <li> Taking CodePath Courses for my Certifications in:
