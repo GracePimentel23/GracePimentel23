@@ -10,15 +10,14 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 ## 🤔 What is Grace up to?:
 
 <ul>
-  <li> Looking for a Spring/ Summer Internship/Co-op </li>
-  <li> Taking CodePath Courses for my Certifications in:
+  <li> Looking for a Summer Internship/Co-op leading to a Full-time Position</li>
+  <li> Taking CodeAcademy Courses for fun:
     <ul>
-      <li> Technical Interview Certificate</li>
-      <li> IOS Development Certificate</li>
-      <li> CyberSecurity Certificate </li>
+      <li> PHP </li>
+      <li> UX/UI </li>
+      <li> React </li>
     </ul>
   </li>
-  <li> Studying to get my AWS Certificate</li>
   <li> Working on some personal projects</li>
 </ul>
 
