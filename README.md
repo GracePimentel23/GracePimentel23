@@ -16,6 +16,8 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
       <li> PHP </li>
       <li> UX/UI </li>
       <li> React </li>
+      <li> Bash </li>
+      <li> Swift </li>
     </ul>
   </li>
   <li> Working on some personal projects</li>
