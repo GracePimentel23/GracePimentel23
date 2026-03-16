@@ -46,6 +46,7 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
       <li> Creative Writing </li>
         <ul>
           <li> Screenwriting - Creating Acts </li>
+          <li> Learning Techniques </li>
         </ul>
     </ul>
 </ul>
