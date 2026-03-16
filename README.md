@@ -10,7 +10,7 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 ## 🤔 What is Grace up to?:
 
 <ul>
-  <li> Looking for a Summer Internship/Co-op leading to a Full-time Position</li>
+  <li> Looking for a Summer Co-op & Full-time Positions</li>
   <li> Taking CodeAcademy Courses for fun:
     <ul>
       <li> PHP </li>
@@ -20,7 +20,34 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
       <li> Swift </li>
     </ul>
   </li>
-  <li> Working on some personal projects</li>
+  <li> Dedicating time to my Senior Classes</li>
+    <ul>
+      <li> Senior Development I</li>
+        <ul>
+          <li> Making Maple Sap Sensors </li>
+          <li> Designing UX/UI dashboard</li>
+          <li> Engineering the physical protoype </li>
+        </ul>
+      <li> Mobile Application Development </li>
+        <ul>
+          <li> Learning Swift </li>
+          <li> Rebuild Dialekt Translator to IOS </li>
+        </ul>
+      <li> Server Programming </li>
+        <ul>
+          <li> Learning Swift </li>
+          <li> Rebuild Dialekt Translator to IOS </li>
+        </ul>
+      <li> Web Server Admin Development </li>
+        <ul>
+          <li> Learning Bash </li>
+          <li> Working on Group Projects focusing on retrieving CPU & Memory </li>
+        </ul>
+      <li> Creative Writing </li>
+        <ul>
+          <li> Screenwriting - Creating Acts </li>
+        </ul>
+    </ul>
 </ul>
 
 ## 🌐 Socials:
