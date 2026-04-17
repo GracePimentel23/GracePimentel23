@@ -10,7 +10,7 @@ Hi, I'm Grace Pimentel — a Web and Mobile Computing student at Rochester Insti
 ## 🤔 What is Grace up to?:
 
 <ul>
-  <li> Looking for a Summer Co-op & Full-time Positions</li>
+  <li> Looking for Full-time Positions</li>
   <li> Taking CodeAcademy Courses for fun:
     <ul>
       <li> PHP </li>
